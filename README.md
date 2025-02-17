@@ -10,7 +10,7 @@
 - 💬 Ask me about **php and wordpress**
 
 - ⚡ Fun fact **Always code**
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw08ADtp7Sd8ivE9Dz0Z1TVR&ust=1739905774905000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiYwsjOzIsDFQAAAAAdAAAAABAE">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
