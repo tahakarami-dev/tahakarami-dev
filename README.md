@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Taha karami</h1>
 <h3 align="center">A passionate backend and wordpress developer from Iran</h3>
 
