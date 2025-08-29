@@ -2,6 +2,10 @@
 <h3 align="center">Backend Developer | WordPress Expert | Laravel Enthusiast</h3>
 
 <p align="center">
+  <img src="https://alphapico.ir/uploadsfiles/2025/08/LinkedIn.jpg" alt="Taha Karami Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tahakarami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tahakarami-dev" />
 </p>
 
@@ -10,6 +14,7 @@
 ### 👨‍💻 About Me
 - 🌍 From **Iran**, passionate about building scalable web applications.  
 - 🔭 Currently working on **[Alphapico](https://alphapico.ir/)**.  
+- 👨‍💼 Member of the **Webtima Development Team**.  
 - 💼 **WordPress** developer (themes, plugins, custom websites) with 5+ years of experience.  
 - 🌱 Mid-level **Laravel** developer with hands-on projects.  
 - ⚡ Strong believer in **continuous learning and execution**.  
@@ -28,14 +33,13 @@
 ---
 
 ### 🛠️ Languages and Tools
-
 <p align="left">
   <!-- Backend -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
