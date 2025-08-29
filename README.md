@@ -1,76 +1,87 @@
-<h1 align="center">Hi 👋, I'm Taha karami</h1>
-<h3 align="center">A passionate backend and wordpress developer from Iran</h3>
+<h1 align="center">Hi 👋, I'm Taha Karami</h1>
+<h3 align="center">Backend Developer | WordPress Expert | Laravel Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahakarami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tahakarami-dev" /> </p>
-
-- 🔭 I’m currently working on [Alphapico](https://alphapico.ir/)
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **php and wordpress**
-
-- ⚡ Fun fact **Always code**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/taha-karami-927006299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-karami-927006299" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahakarami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tahakarami-dev" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 👨‍💻 About Me
+- 🌍 From **Iran**, passionate about building scalable web applications.  
+- 🔭 Currently working on **[Alphapico](https://alphapico.ir/)**.  
+- 💼 **WordPress** developer (themes, plugins, custom websites) with 5+ years of experience.  
+- 🌱 Mid-level **Laravel** developer with hands-on projects.  
+- ⚡ Strong believer in **continuous learning and execution**.  
+- 🎯 Interested in **backend engineering, performance optimization, and web security**.  
+- 💬 Ask me about **PHP, WordPress, Laravel**.  
+
+---
+
+### 🤝 Connect with me:
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://linkedin.com/in/taha-karami-927006299" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahakarami-dev&show_icons=true&locale=en&layout=compact" alt="tahakarami-dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakarami-dev&show_icons=true&locale=en" alt="tahakarami-dev" /></p>
+### 🛠️ Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahakarami-dev&" alt="tahakarami-dev" /></p>
+#### Core
+- **PHP**, **WordPress (Themes, Plugins, Custom Development)**  
+- **Laravel (Mid-level, REST APIs, MVC, Authentication, CRUD systems)**  
+- **JavaScript (ES6+), jQuery, Vue.js (basic)**  
+
+#### Frontend
+- HTML5, CSS3, SASS  
+- TailwindCSS, Bootstrap  
+- Responsive Design, UI/UX basics  
+
+#### Tools & Workflow
+- Git & GitHub  
+- Linux environment (server setup, CLI)  
+- Docker (basic)  
+- Postman (API testing)  
+- Figma (UI design collaboration)  
+
+#### Databases
+- MySQL  
+- MongoDB (basic)  
+
+#### Soft Skills
+- Strong **problem-solving mindset**  
+- Passionate about **continuous learning**  
+- Ability to **execute and deliver** (not just talk 😉)  
+
+---
+
+### 🚀 Featured Project
+- **[Alphapico](https://alphapico.ir/)**  
+  Educational platform for programming and AI, focused on practical, project-based learning.  
+  - WordPress + custom backend solutions  
+  - Scalable and user-friendly design  
+  - Implemented custom plugins & optimized performance  
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahakarami-dev&show_icons=true&locale=en&layout=compact" alt="tahakarami-dev" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakarami-dev&show_icons=true&locale=en" alt="tahakarami-dev" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahakarami-dev&" alt="tahakarami-dev" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tahakarami-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="tahakarami-dev" />
+</p>
