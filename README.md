@@ -103,13 +103,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakarami-dev&show_icons=true&locale=en" alt="tahakarami-dev" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahakarami-dev&" alt="tahakarami-dev" />
-</p>
+
 
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahakarami-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="tahakarami-dev" />
-</p>
