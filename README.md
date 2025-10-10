@@ -92,5 +92,4 @@
   - Scalable and user-friendly design  
   - Implemented custom plugins & optimized performance  
 
----
 
