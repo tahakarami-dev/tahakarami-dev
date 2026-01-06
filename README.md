@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | WordPress Expert | Laravel Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/tahakarami-dev/tahakarami-dev/raw/main/LinkedIn.jpg" alt="Taha Karami Banner" width="100%" />
+  <img src="https://github.com/tahakarami-dev/tahakarami-dev/raw/main/LinkedIn.png" alt="Taha Karami Banner" width="100%" />
 </p>
 
 
