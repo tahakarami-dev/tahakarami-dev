@@ -4,6 +4,11 @@ Backend Developer (Laravel) · WordPress Engineer · Product-Driven Builder
 </h3>
 
 <p align="center">
+  <img src="https://github.com/tahakarami-dev/tahakarami-dev/raw/main/LinkedIn.png" 
+       alt="Taha Karami Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tahakarami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -50,7 +55,7 @@ I care deeply about clean architecture, performance, and writing code that survi
 
 ### Projects & Experience
 - **Zhaket Marketplace**  
-  Active developer and seller of professional WordPress themes and plugins  
+  Professional WordPress themes & plugins developer  
   https://www.zhaket.com/store/web/wordpressdev/intro
 
 - **Alphapico (EdTech Platform)**  
@@ -63,18 +68,23 @@ I care deeply about clean architecture, performance, and writing code that survi
 ---
 
 ### Mindset
-- Product-driven development
-- Strong execution focus
-- Business-aware engineering decisions
-- Continuous learning through real projects
+- Product-driven development  
+- Business-aware engineering decisions  
+- Execution over theory  
 
 ---
 
 ### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/taha-karami/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" />
+  </a>
+
+  <a href="https://t.me/TahaKarami_me" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
+      height="30" width="40" />
   </a>
 </p>
-
-- Telegram: **@TahaKarami_me**
