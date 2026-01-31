@@ -44,7 +44,7 @@ I care deeply about clean architecture, performance, and writing code that survi
 
 ---
 
-### Laravel (Mid → Advanced)
+### Laravel
 - REST API development
 - Authentication & authorization flows
 - Queue & background job processing
@@ -102,22 +102,6 @@ I care deeply about clean architecture, performance, and writing code that survi
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### Projects & Experience
-- **Zhaket Marketplace**  
-  Professional WordPress themes & plugins developer  
-  https://www.zhaket.com/store/web/wordpressdev/intro
-
-- **Alphapico (EdTech Platform)**  
-  End-to-end development of a programming and AI education platform  
-  Backend architecture, custom WordPress plugins, performance optimization, and product development
-
-- Additional WordPress-based products, experimental startups, and failed projects  
-  (valuable lessons included)
-
----
 
 ### Connect with Me
 <p align="left">
