@@ -14,7 +14,7 @@ Backend Developer (Laravel) · WordPress Engineer · Product-Driven Builder
 
 ---
 
-### About Me
+### About Me 
 Backend developer with a strong focus on **WordPress engineering** and **Laravel-based backend systems**.  
 I design and build scalable, secure, and maintainable web products with a clear **product and business mindset**.
 
@@ -53,7 +53,7 @@ I care deeply about clean architecture, performance, and writing code that survi
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 <p align="left">
   <!-- Backend -->
   <a href="https://www.php.net" target="_blank">
