@@ -101,6 +101,16 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
+    <a href="https://alpinejs.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://livewire.laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="40" height="40"/>
+  </a>
+
 </p>
 
 ### Connect with Me
