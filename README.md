@@ -53,9 +53,11 @@ I care deeply about clean architecture, performance, and writing code that survi
 
 ---
 
-###  Languages and Tools
+## Tech Stack
+
+<!-- ================= Backend ================= -->
+### Backend
 <p align="left">
-  <!-- Backend -->
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   </a>
@@ -65,8 +67,13 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://wordpress.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Frontend -->
+---
+
+<!-- ================= Frontend ================= -->
+### Frontend
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -82,13 +89,39 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Database -->
+---
+
+<!-- ================= JavaScript ================= -->
+### JavaScript & Reactive Tools
+<p align="left">
+  <a href="https://alpinejs.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://livewire.laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= Database ================= -->
+### Database
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Tools -->
+---
+
+<!-- ================= Tools ================= -->
+### Tools & Environment
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   </a>
@@ -101,17 +134,14 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
-    <a href="https://alpinejs.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://livewire.laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="40" height="40"/>
-  </a>
-
 </p>
+
 
 ### Connect with Me
 <p align="left">
