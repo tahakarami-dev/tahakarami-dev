@@ -55,6 +55,8 @@ I care deeply about clean architecture, performance, and writing code that survi
 
 ### Languages and Tools
 
+### Languages and Tools
+
 <p align="left">
 
   <!-- Backend -->
@@ -65,10 +67,7 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://laravel.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/>
   </a>
-    <a href="https://livewire.laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="40" height="40"/>
-  </a>
-  
+
   <a href="https://wordpress.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
   </a>
@@ -93,9 +92,7 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   </a>
-
-  <p align="left">
-  <a href="https://alpinejs.dev/" target="_blank">
+    <a href="https://alpinejs.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40"/>
   </a>
   <a href="https://jquery.com/" target="_blank">
@@ -122,6 +119,9 @@ I care deeply about clean architecture, performance, and writing code that survi
 
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  </a>
+    <a href="https://livewire.laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="40" height="40"/>
   </a>
 
 </p>
