@@ -1,4 +1,4 @@
-<h1 align="center">Taha Karami  [ Co-founder of Takix ] </h1>
+<h1 align="center">Taha Karami -[ Co-founder of Takix ] </h1>
 <h3 align="center">
 Backend Developer (Laravel)  · WordPress Programmer & Digital Product Developer
 </h3>
