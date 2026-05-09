@@ -1,7 +1,11 @@
-<h1 align="center">Taha Karami</h1>
+<h1 align="center">Taha Karami - Co-founder of Takix </h1>
 <h3 align="center">
-Backend Developer (Laravel) · WordPress Engineer · Product-Driven Builder
+Backend Developer (Laravel)  · WordPress Programmer & Digital Product Developer
 </h3>
+
+<p align="center">
+  Co-founder of <strong>Takix</strong> & <strong>Benyus</strong>
+</p>
 
 <p align="center">
   <img src="https://github.com/tahakarami-dev/tahakarami-dev/raw/main/LinkedIn.png"
@@ -14,9 +18,12 @@ Backend Developer (Laravel) · WordPress Engineer · Product-Driven Builder
 
 ---
 
-### About Me 
-Backend developer with a strong focus on **WordPress engineering** and **Laravel-based backend systems**.  
-I design and build scalable, secure, and maintainable web products with a clear **product and business mindset**.
+### About Me
+
+Backend developer with over 6 years of experience, focused on **Laravel-based systems**, **advanced WordPress engineering**, and **digital product development**.
+
+I design and build scalable, secure, and maintainable web products with a clear product and business mindset.  
+As co-founder of **Takix** and **Benyus**, I bring a product-driven builder mentality to every project.
 
 My core expertise is developing **custom WordPress plugins and architectures from scratch**, while using Laravel to build structured backend systems, APIs, and background processes.  
 I care deeply about clean architecture, performance, and writing code that survives real production environments.
@@ -26,6 +33,7 @@ I care deeply about clean architecture, performance, and writing code that survi
 ### Core Expertise
 - Backend development with **PHP & Laravel**
 - Advanced **WordPress engineering** (not page builders)
+- Digital product development
 - RESTful API design (authentication, rate limiting, versioning)
 - Background processing with **Queues & Jobs**
 - Service Layer & Repository Pattern
@@ -52,8 +60,6 @@ I care deeply about clean architecture, performance, and writing code that survi
 - Real-world project experience
 
 ---
-
-### Languages and Tools
 
 ### Languages and Tools
 
@@ -92,9 +98,11 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   </a>
-    <a href="https://alpinejs.dev/" target="_blank">
+
+  <a href="https://alpinejs.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://jquery.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/>
   </a>
@@ -120,13 +128,12 @@ I care deeply about clean architecture, performance, and writing code that survi
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
-    <a href="https://livewire.laravel.com/" target="_blank">
+
+  <a href="https://livewire.laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="40" height="40"/>
   </a>
 
 </p>
-
-
 
 ### Connect with Me
 <p align="left">
