@@ -99,6 +99,11 @@ I care deeply about clean architecture, performance, and writing code that survi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   </a>
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+
   <a href="https://alpinejs.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" width="40" height="40"/>
   </a>
