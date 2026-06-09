@@ -4,7 +4,7 @@ Backend Developer (Laravel)  · WordPress Programmer & Digital Product Developer
 </h3>
 
 <p align="center">
-  Co-founder of <strong>Takix</strong> 
+  Founder of <strong>Takix</strong> 
 </p>
 
 <p align="center">
