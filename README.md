@@ -23,7 +23,7 @@ Backend Developer (Laravel)  · WordPress Programmer & Digital Product Developer
 Backend developer with over 6 years of experience, focused on **Laravel-based systems**, **advanced WordPress engineering**, and **digital product development**.
 
 I design and build scalable, secure, and maintainable web products with a clear product and business mindset.  
-As co-founder of **Takix** , I bring a product-driven builder mentality to every project.
+As Founder of **Takix** , I bring a product-driven builder mentality to every project.
 
 My core expertise is developing **custom WordPress plugins and architectures from scratch**, while using Laravel to build structured backend systems, APIs, and background processes.  
 I care deeply about clean architecture, performance, and writing code that survives real production environments.
